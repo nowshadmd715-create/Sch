@@ -1,0 +1,7 @@
+{
+  "name": "EduPulse - Modern School Management System",
+  "description": "A high-end, responsive school management dashboard featuring student profiles, detailed analytics, real-time search, and AI-powered performance insights using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

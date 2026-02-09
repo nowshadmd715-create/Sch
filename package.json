@@ -1,0 +1,21 @@
+
+{
+  "name": "edupulse-pro-dashboard",
+  "version": "1.5.0",
+  "private": true,
+  "description": "High-performance ESM-native School Management Dashboard for Vercel.",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "echo 'Run locally using your preferred static server.'",
+    "build": "echo 'Vercel will serve static files from root.'",
+    "start": "echo 'Serving application...'"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "@google/genai": "^1.39.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
